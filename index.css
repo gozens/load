@@ -45,6 +45,10 @@ article .arts{
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
     overflow: hidden;
+    background-image: url('/T_XOX_T_free-file.ico');
+    background-color: #e41f1f73;
+    color: white;
+    font-weight: bold;
 }
 .arts h1{
     background-color: gray;
